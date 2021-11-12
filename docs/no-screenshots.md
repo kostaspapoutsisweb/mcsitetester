@@ -9,10 +9,8 @@ navname: Screenshots
 
 {% assign imagenum = 0 %}
 
-<div class="grid grid-cols-2 md:grid-cols-3 gap-3">
+
 Αυτή την στιγμή δεν υπάρχουν ανερτημένα screenshots!
-</div>
-</div>
 {% endif %}
 {% endfor %}
 
