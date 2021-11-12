@@ -5,7 +5,7 @@ navname: Αρχική
 # Cells at the bottom of the page
 cellLinks:
   - cname: Screenshots
-    curl: screenshots
+    curl: no-screenshots
     cimage: media/demo03.jpg
 
   - cname: Webstore
