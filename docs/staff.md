@@ -5,7 +5,7 @@ navname: Staff List
 
 <link href="{{ site.baseurl }}/assets/micromodal.custom.css" rel="stylesheet">
 
-# Screenshots
+# Staff List
 
 {% assign imagenum = 0 %}
 
