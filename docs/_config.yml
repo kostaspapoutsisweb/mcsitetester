@@ -11,9 +11,9 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: Project PAP Survival
+serverDescription: A survival server by Project PAP!
+serverIP: play.projectpapsurvival.gq:26187
 useBedrockForOnlineStatus: true
 
 
@@ -29,8 +29,6 @@ discordChannelID: 882331810070151188
 # #   newtab - Whether link should open in new tab
 # 
 # siteNav:
-#   - name: Server Map
-#     url: map
 #     newtab: true
 #   - name: Screenshots
 #     url: screenshots
