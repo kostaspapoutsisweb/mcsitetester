@@ -14,10 +14,10 @@ navname: Staff List
 <th>ID</th><th>Όνομα</th><th>Θέση</th>
 </tr>
 <tr>
-<td>1</td><td>Papoutsis5834</td><td>Owner</td>
+<td><p align="right">1</p></td><td><center>Papoutsis5834</center></td><td><center>Owner</center></td>
 </tr>
 <tr>
-<td>2</td><td>thanos</td><td>Co-Owner</td>
+<td><p align="right">2</p></td><td><center>thanos</center></td><td><center>Co-Owner</center></td>
 </tr>
 </table>
 
