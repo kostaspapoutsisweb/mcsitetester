@@ -12,8 +12,10 @@ navname: Staff List
 <div>
 <center>
 <ol type="1">
-<li>Papoutsis5834 | Owner</li>
-<li>thanos        | Co-Owner</li>
+    |Όνομα         |Θέση     |
+    |------------- |-------- |
+<li>|Papoutsis5834 | Owner   |</li>
+<li>|thanos        | Co-Owner|</li>
 </ol>
 </center>
 </div>
