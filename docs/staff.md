@@ -11,12 +11,10 @@ navname: Staff List
 
 <div>
 <center>
-<ol type="1">
-    |Όνομα         |Θέση     |
-    |------------- |-------- |
-<li>|Papoutsis5834 | Owner   |</li>
-<li>|thanos        | Co-Owner|</li>
-</ol>
+ID  |Όνομα         |Θέση     |
+--- |------------- |-------- |
+1   |Papoutsis5834 | Owner   |
+2   |thanos        | Co-Owner|
 </center>
 </div>
 
