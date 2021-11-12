@@ -7,6 +7,8 @@ navname: Screenshots
 
 # Screenshots
 
+{% assign imagenum = 0 %}
+
 Αυτή την στιγμή δεν υπάρχουν ανερτημένα screenshots!
 
 <br>
