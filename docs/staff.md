@@ -9,7 +9,6 @@ navname: Staff List
 
 {% assign imagenum = 0 %}
 
-<center>
 <table border="3">
 <tr>
 <th>ID</th><th>Όνομα</th><th>Θέση</th>
@@ -21,7 +20,6 @@ navname: Staff List
 <td>2</td><td>thanos</td><td>Co-Owner</td>
 </tr>
 </table>
-</center>
 
 <br>
 
