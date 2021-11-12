@@ -1,6 +1,6 @@
 ---
 layout: page
-navname: Screenshots
+navname: Staff List
 ---
 
 <link href="{{ site.baseurl }}/assets/micromodal.custom.css" rel="stylesheet">
